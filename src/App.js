@@ -23,7 +23,7 @@ render() {
             </HeaderRow>
             <HeaderRow>
             <Navigation>
-                <Link to ="/resume"> Resume </Link>
+                <Link to ="/resume"> resumeeeees </Link>
                 <Link to="/aboutme"> AboutMe </Link>
                 <Link to="/projects"> Projects </Link>
                 <Link to="/contact"> Contact </Link>
